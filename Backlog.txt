@@ -1,0 +1,12 @@
+ Backlog:
+----------
+Tasks:
+
+GUI erstellen
+
+Methode schreiben
+
+Fehlerbehandlung
+
+Testläufe
+
